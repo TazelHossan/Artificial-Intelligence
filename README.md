@@ -151,12 +151,10 @@ Download PDF from this link (https://github.com/TazelHossan/Artificial-Intellige
 ```Folder name: N_Queens(BFS+DFS)``` <br> <br>
 
 
-![.https://github.com/JU-CSE-27/swe-wiki/edit/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
+![.https://github.com/TazelHossan/Artificial-Intelligence/edit/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
-Test Driven Development(TDD):
-https://sew-tdd.netlify.app/
 
-Feel free to submit a [pull request](https://github.com/JU-CSE-27/swe-wiki/pulls) with your suggestions of awesome GitHub profiles.
+Feel free to submit a [pull request](https://github.com/TazelHossan/Artificial-Intelligence/pulls) with your suggestions of this repo.
 
 Download This Repo
 ------------------
