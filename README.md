@@ -28,23 +28,21 @@
   <img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/shopping.gif" height="300" />
 </p>
 
-## Team-27
-We are Team-27 from CSE at JU, and We do content on Design and Development. We really enjoy learning languages and frameworks like Django, Js, CSS, Git as well as work in VS Code. We also enjoy to do work as a team. 
-## Team Members
-1.`Md.Tazel Hossan` \
-2.`Mushfika Ikfat Munia` \
-3.`Israt Jahan Munny` \
-4.`Rubaiya Reza Sohana` \
-5.`Tabia Tanzin Prama` \
-6.`Manas Sarker Akash` 
-## Skills and Experience
-* ⚛ Dajngo
-* 📱 VS Code
-* 💻 HTML, CSS, JS,Python
+## About
+This repo includes some Artificial Intelligence Codes which are written in Prolog as well as in Python.
 
-Installing Our Django Project
------------------------------
-Download the progect from the github at https://github.com/JU-CSE-27/swe-wiki.
+## Author
+`Md.Tazel Hossan`\
+`Student of Computer Science & Enginnering Dpt`
+
+## Skills and Experience
+* ⚛ Prolog
+* 📱 Python3
+* 💻 Python IDLE
+
+Installing Tools
+----------------
+
 
 1. In the VS Code Terminal where your virtual environment is activated, run the following command:<br>
 	
@@ -96,3 +94,7 @@ Test Driven Development(TDD):
 https://sew-tdd.netlify.app/
 
 Feel free to submit a [pull request](https://github.com/JU-CSE-27/swe-wiki/pulls) with your suggestions of awesome GitHub profiles.
+
+Download This Repo
+------------------
+Download the repo from the github at (https://github.com/TazelHossan/Artificial-Intelligence/).
