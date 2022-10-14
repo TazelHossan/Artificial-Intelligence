@@ -67,8 +67,11 @@ Download PDF from this link (https://github.com/TazelHossan/Artificial-Intellige
 
 <img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/output/Experiment_2.png" width="512" >
 
-### Experiment-3: Home Page By Munny
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_munny.gif" width="512" >
+### Experiment-3: Construction of a tree of student-teacher-course-year and doing arithmetic operations (sum, subtraction, multiplication, remainder). <br>
+
+Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_2/Experiment.pdf).<br> <br>
+
+
 
 ### Feature-4: Product Page By Sohana
 <img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_sohana.gif" width="512" >
