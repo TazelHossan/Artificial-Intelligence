@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/shopping.gif" height="300" />
+  <img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Images/AI.gif" height="300" />
 </p>
 
 ## About
@@ -44,28 +44,17 @@ Installing Tools
 ----------------
 
 
-1. In the VS Code Terminal where your virtual environment is activated, run the following command:<br>
+1. Download prolog .exe from this repo at (https://github.com/TazelHossan/Artificial-Intelligence/tree/main/Software).<br>
 	
-	```django-admin startproject ecom```
+	```Repo Name : Software```
 	
-2. Make development database migrations by running the following command:<br>
+2. Download Python 3.10 IDLE from this official link (https://www.python.org/downloads/).<br>
 
-	```python manage.py makemigrations```
+	```https://www.python.org/downloads/```
 
-3. Make development database models by running the following command:<br>
-	
-	```python manage.py migrate```
-
-4. Reset Django admin password.<br>
-	
-	```python manage.py createsuperuser```
-	
-5. Run This Django project.<br>
-	
-	```python manage.py runserver```
 
 ## Examples of Work:
-### Feature-1: Contact Page By Tazel
+### Experiment-1: Construction of a family tree
 <img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_tazel.gif" width="512" >
 
 ### Feature-2: Event Page By Tazel
