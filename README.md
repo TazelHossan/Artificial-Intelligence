@@ -54,13 +54,20 @@ Installing Tools
 
 
 ## Examples of Work:
-### Experiment-1: Construction of a family tree
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_tazel.gif" width="512" >
+### Experiment-1: Construction of a family tree <br>
+```file name: family_tree.pl``` <br> <br>
+Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/Experiment.pdf).<br> <br>
 
-### Feature-2: Event Page By Tazel
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature2_by_tazel.gif" width="512" >
+<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/output/Experiment_1.png" width="512" >
 
-### Feature-3: Home Page By Munny
+### Experiment-2: Summation of an integer list & counting the number of elements from that list. <br>
+
+```file name: list_count_sum.pl``` <br> <br>
+Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_2/Experiment.pdf).<br> <br>
+
+<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/output/Experiment_2.png" width="512" >
+
+### Experiment-3: Home Page By Munny
 <img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_munny.gif" width="512" >
 
 ### Feature-4: Product Page By Sohana
